@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    width:600px;
+	padding:10px;
+	margin:20px auto 0;	
+}
+
+.wrapper{
+    line-height: 2em;
+    padding-bottom: 10px;
+}
+
+h1{
+    padding-top: 5px;
+    font-size:xxx-large;
+}
+
+.preamble {
+    text-align: left;
+    line-height: 1.2em;
+}
+
+.short-note{
+    justify-content: left;
+    padding: 2em 0;
+}
+
+.sub{
+    margin: auto;
+    width: 50%;
+    border: 1px transparent;
+    padding: 10px;
+}
+
+h3{
+    border-bottom: 1px solid rgb(161, 157, 157);
+    padding-bottom: 5px;
+}
+
+h4{
+    font-size: large;
+}
+
+
+.work-des{
+    position: relative;
+    top: -30px;
+    padding-top: 2px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255,.5);
+    padding: 10px;
+}
+
+.edu{
+    position: relative;
+    top: -30px;
+    padding-top: 2px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255,.5);
+    padding: 10px;
+}
